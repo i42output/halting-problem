@@ -1,0 +1,9 @@
+I hereby introduce the sNaP, the "signaling Not a Program" exception
+to be raised in the event a [Strachey 1965] "Impossible Program" is
+passed to a signaling halt decider.  The sNaP is analogous to the sNaN
+of IEEE 754 floating point to signify the result of a mathematical
+operation is undefined.
+
+As an added bonus "sNaP" is quite catchy. :D
+
+Copyright 2022 Mr Flibble
