@@ -38,7 +38,7 @@ void Px(void (*x)())
 	return;
 }
 
-Obviously my idea necessitateS extending the definition of a halt
+Obviously my idea necessitates extending the definition of a halt
 decider:
 
 1) Decider decision is HALTS if input halts.
