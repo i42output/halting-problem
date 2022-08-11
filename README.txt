@@ -23,7 +23,7 @@ in parallel.
 
 If the non-halting branch is determined to halt AND the halting branch
 is determined to not halt then pathology is detected and reported via
-a sNaP (signaling Not a Program) signal (analogous to IEE754's 
+a sNaP (signaling Not a Program) signal (analogous to IEEE 754's 
 sNaN (signaling Not a Number) signal)
 
 If EITHER branch is determined to be correctly decided then that will
